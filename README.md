@@ -1,2 +1,4 @@
 # Scrimish
-A Java implementation of the card game Scrimish using console I/O.
+A text-based Java implementation of the simple card game Scrimish. Also includes legacy functionality for a console I/O version.
+
+Info about the game Scrimish: http://www.scrimish.com/
